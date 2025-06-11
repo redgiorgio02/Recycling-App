@@ -10,4 +10,4 @@ Features
 
 Backend
 
-The backend functionality (written in PHP) handles communication with a MySQL database, including user data and recycling records. You can find the PHP source code in the `php_backend` folder.
+The backend functionality (written in PHP) handles communication with a MySQL database, including user data and recycling records. You can find the PHP source code in the `AppErgasia` folder.
